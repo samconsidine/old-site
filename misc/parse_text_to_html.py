@@ -13,8 +13,8 @@ preamble = """<!DOCTYPE html>
 
 <style>
     body {
-        margin-left: 3%;
-        margin-right: 3%;
+        margin-left: 1.5%;
+        margin-right: 1.5%;
     }
     p {
         margin-bottom: 0; 
